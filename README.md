@@ -13,7 +13,7 @@
 
 ## 📥 Google Drive Links
 
-* **Main Folder:** [Graduation Project - GNS3 Network Simulation Environment Setup]([Link](https://drive.google.com/drive/folders/12ymIE_LLRTVmPNgRvTzA7DOB8t-6Yu1n?usp=sharing))
+* **Main Folder:** [Graduation Project - GNS3 Network Simulation Environment Setup]([(https://drive.google.com/drive/folders/12ymIE_LLRTVmPNgRvTzA7DOB8t-6Yu1n?usp=sharing))
 * **GNS3 (Setup):**
   * 🎥 Videos: [GNS3 Videos](https://drive.google.com/drive/folders/1kYcW59DYERywPj-Y8MPDhPdhkZp1cS3P?usp=sharing)
   * 💾 Files: [GNS3 Files](https://drive.google.com/drive/folders/12OzZ-mMOyzu5rPSfFnwMDBPoRz-I-mIO?usp=sharing)
